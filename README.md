@@ -6,9 +6,9 @@
 <br>
 <br>
 <br>
-## Project Description<br><br>
-SEE DESCRIPTION IN description.md<br>
-## Test Instructions <br>
+### Project Description<br>
+SEE DESCRIPTION IN description.md<br><br>
+### Test Instructions <br>
 There are two methods to testin this project<br>
 
 1. Automated testing
