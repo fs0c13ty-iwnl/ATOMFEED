@@ -6,10 +6,10 @@
 <br>
 <br>
 <br>
-### Project Description<br>
+### Project Description <br>
 SEE DESCRIPTION IN description.md<br><br>
 ### Test Instructions <br>
-There are two methods to testin this project<br>
+There are two methods provided for testing in this project<br>
 
 1. Automated testing
    1. Open two terminals, both in the assignment folder
