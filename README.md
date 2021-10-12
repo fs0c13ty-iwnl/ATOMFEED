@@ -24,7 +24,7 @@ XML-based formats are easy to transport via Hypertext Transport Protocol (HTTP),
 
 ### Syndication Servers
 
-Syndication servers are web servers that serve XML documents which conform to the RSS or ATOM standards. On receipt of an HTTP GET, the server will respond with an XML response like this (from ["Creating an ATOM feed in PHP" (Links to an external site.)](http://www.ibm.com/developerworks/library/x-phpatomfeed/)):
+Syndication servers are web servers that serve XML documents which conform to the RSS or ATOM standards. On receipt of an HTTP GET, the server will respond with an XML response like this (from ["Creating an ATOM feed in PHP"](http://www.ibm.com/developerworks/library/x-phpatomfeed/)):
 
 <pre>&lt;?xml version=&#39;1.0&#39; encoding=&#39;iso-8859-1&#39; ?&gt;
 &lt;feed xml:lang=&#34;en-US&#34; xmlns=&#34;http://www.w3.org/2005/Atom&#34;&gt;
