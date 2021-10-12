@@ -7,7 +7,7 @@
 <br>
 <br>
 ### Project Description <br>
-SEE DESCRIPTION IN description.md<br><br>
+SEE PROJECT DESCRIPTION IN description.md<br><br>
 ### Test Instructions <br>
 There are two methods provided for testing in this project<br>
 
