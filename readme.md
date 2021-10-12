@@ -5,11 +5,11 @@
  //    E-mail       -   a1767109@student.adelaide.edu.au    
 
 * This assignment contains the following files (plus a folder containing text files):
-        ATOMFeed.java	            XMLParser.java
+        ATOMFeed.java	            	XMLParser.java
         AggregationServer.java		contents
-		GETClient.java  			test.java
-        ContentServer.java		    startServer.sh
-        startClient.sh              makefile
+	GETClient.java  		test.java
+        ContentServer.java		startServer.sh
+        startClient.sh              	makefile
         readme.txt
 
         in folder /contents there will be the following files:
