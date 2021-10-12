@@ -2,13 +2,13 @@
 
 [IMPORTANT] DO NOT COPY OR USE ANY CODES FROM THIS FOR YOUR PERSONAL USE (#assignments, proejcts)
 <br>
-### [THE PROJECT IS FOR DISPLAY ONLY] ###
+### [THE PROJECT IS FOR DISPLAY ONLY] 
 <br>
 <br>
 <br>
 ### Project Description<br><br>
 SEE DESCRIPTION IN description.md<br>
-### Test Instructions ###<br>
+### Test Instructions <br>
 There are two methods to testin this project<br>
 
 1. Automated testing
