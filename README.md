@@ -3,10 +3,8 @@
 [IMPORTANT] DO NOT COPY OR USE ANY CODES FROM THIS FOR YOUR PERSONAL USE (#assignments, proejcts)
 <br>
 ### [THE PROJECT IS FOR DISPLAY ONLY] 
-<br>
-<br>
-<br>
-### TEST INSTRUCTIONS <br>
+
+### TEST INSTRUCTIONS
 SEE TEST INSTRUCTIONS IN instruction.md<br><br>
 
 ### Objective
