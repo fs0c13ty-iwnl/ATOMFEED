@@ -2,7 +2,7 @@
 
 [IMPORTANT] DO NOT COPY OR USE ANY CODE FROM THIS FOR YOUR PERSONAL USE (#assignments, proejcts)
 <br>
-### THE PROJECT IS FOR DISPLAY ONLY ###
+### [THE PROJECT IS FOR DISPLAY ONLY] ###
 <br>
 <br>
 <br>
