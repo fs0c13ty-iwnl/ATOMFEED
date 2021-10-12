@@ -1,3 +1,14 @@
+### ALL RIGHTS RESERVERD BY THIS GITHUB ACCOUNT
+
+[IMPORTANT] DO NOT COPY OR USE ANY CODES FROM THIS FOR YOUR PERSONAL USE (#assignments, proejcts)
+<br>
+### [THE PROJECT IS FOR DISPLAY ONLY] 
+<br>
+<br>
+<br>
+### TEST INSTRUCTIONS <br>
+SEE TEST INSTRUCTIONS IN instruction.md<br><br>
+
 ### Objective
 
 To gain an understanding of what is required to build a client/server system, by building a simple system that aggregates and distributes ATOM feeds.
