@@ -1,13 +1,3 @@
-### ALL RIGHTS RESERVERD BY THIS GITHUB ACCOUNT
-
-[IMPORTANT] DO NOT COPY OR USE ANY CODES FROM THIS FOR YOUR PERSONAL USE (#assignments, proejcts)
-<br>
-### [THE PROJECT IS FOR DISPLAY ONLY] 
-<br>
-<br>
-<br>
-### Project Description <br>
-SEE PROJECT DESCRIPTION IN description.md<br><br>
 ### Test Instructions <br>
 There are two methods provided for testing in this project<br>
 
