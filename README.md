@@ -1,8 +1,11 @@
-            Distributed Systems  Assignment 2
-    Filename     -   readme.txt
-    Author       -   Songzhe Li
-    Student ID   -   a1767109
-    E-mail       -   [a1767109@student.adelaide.edu.au](mailto:a1767109@student.adelaide.edu.au)
+### ALL RIGHTS RESERVERD BY THIS GITHUB ACCOUNT
+
+[IMPORTANT] DO NOT COPY OR USE ANY CODE FROM THIS FOR YOUR PERSONAL USE (#assignments, proejcts)
+<br>
+### THE PROJECT IS FOR DISPLAY ONLY ###
+<br>
+<br>
+<br>
 ### Project Description
 SEE DESCRIPTION IN description.md
 ### Test Instructions ###
