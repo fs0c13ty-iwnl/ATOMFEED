@@ -1,10 +1,8 @@
- //*********************************************************//
- //            Distributed Systems  Assignment 2            //
- //    Filename     -   readme.txt                          //
- //    Author       -   Songzhe Li                          //
- //    Student ID   -   a1767109                            //
- //    E-mail       -   a1767109@student.adelaide.edu.au    //
- //*********************************************************//
+ //            Distributed Systems  Assignment 2
+ //    Filename     -   readme.txt                    
+ //    Author       -   Songzhe Li                          
+ //    Student ID   -   a1767109                            
+ //    E-mail       -   a1767109@student.adelaide.edu.au    
 
 * This assignment contains the following files (plus a folder containing text files):
         ATOMFeed.java	            XMLParser.java
